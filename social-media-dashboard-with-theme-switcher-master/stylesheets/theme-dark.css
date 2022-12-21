@@ -1,0 +1,65 @@
+body {
+    background: #1D2029;
+}
+
+.box-head {
+    background: #20222F;
+}
+
+.mode-dark-light {
+    color: white;
+}
+
+.header {
+    color: white;
+}
+
+.card-foll {
+    background: #252B43;
+    transition: .3s;
+}
+
+.card-foll:hover {
+    background: #333A56;
+}
+
+.total-followers {
+    color: white;
+}
+
+.recently__days {
+    color: #41A597;
+}
+
+.recently__days--red {
+    color: #BB5066;
+}
+
+.mode__selector {
+    background: #353957;
+}
+
+.content-overviews {
+    color: white;
+}
+
+.card-over {
+    background: #252B43;
+    transition: .3s;
+}
+
+.card-over:hover {
+    background: #333A56;
+}
+
+.percent__value {
+    color: #42A494;
+}
+
+.type-view__text {
+    color: #838BB2;
+}
+
+.percent__value--red {
+    color: #BB5066;
+}
